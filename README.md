@@ -6,7 +6,7 @@ SingleScrabbler is an Android application designed for word game lovers who enjo
 
 As you open your application, you will be brought to a *Menu View* where you will have the option to select among either starting a new game, updating the settings, or viewing game statistics.
 
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/menuActivity.PNG" width="140" height="200" />
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/menuActivity.PNG" width="140" height="200" />
 
 ## How To
 
@@ -33,7 +33,7 @@ As cited in:
 
 ![English Scrabble](https://en.wikipedia.org/wiki/Scrabble_letter_distributions)
 
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/settingsActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/settingsActivity.PNG" width="140" height="200"/>
 
 ### Statistics
 The statistics menu will give you three options to choose from:
@@ -44,7 +44,7 @@ The statistics menu will give you three options to choose from:
 		* The average score per turn
 		The player may select any of the game scores to view the settings for that game’s maximum number of turns, letter distribution, and letter points.
 		
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/gameScoreStatsActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/gameScoreStatsActivity.PNG" width="140" height="200"/>
 
 Clicking on any game score would take the user to the settings of letter counts and points pertaining to that game.
 
@@ -55,7 +55,7 @@ Clicking on any game score would take the user to the settings of letter counts 
 		* The total number of times that letter has been played in a word
 		* The total number of times that letter has been traded back into the pool
 		* The percentage of times that the letter is used in a word, out of the total number of times it has been drawn
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/letterStatActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/letterStatActivity.PNG" width="140" height="200"/>
  * Word Bank
  	- The player will view the list of words used, starting from the most recently played, 	displaying:
 		* The word
@@ -67,7 +67,7 @@ Clicking on any game score would take the user to the settings of letter counts 
 * The game will initiate with 7 letters in your rack and 4 letters in the board.
 * Clicking on the ? button on the top right hand side of the screen will show the instructions on how to play the game.
 
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/Instructions.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/Instructions.PNG" width="140" height="200"/>
 
 * In each turn, the player can either form a word or swap letters from the rack with the pool letters.
 * When forming a word, the user needs to select at least one letter from the board and must not repeat any words already utilized in the same game. If the word is written incorrectly, the user can tap the delete button to remove the last letters selected. Once the word has been formed, the board letter used in the formed word will be randomly replaced with one of the rack letters used in the word formed, and the total points will be increased accordingly. The turn count will also be incremented by one.
@@ -78,22 +78,11 @@ Clicking on any game score would take the user to the settings of letter counts 
 * The game ends when either of the following happens:
 	- The pool is empty. (10 additional points will be added to the total score!)
 	- The number of turns has reached its maximum value.
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/finishedGameActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/finishedGameActivity.PNG" width="140" height="200"/>
 
 ## Return to game
 * If a user had to stop the game in the middle, he can always return to the unfinished game.
 
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/returnActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/returnActivity.PNG" width="140" height="200"/>
 
-## Team Members
-
-* **Esther D. Rios** - *OMSCS Georgia Tech Student*
-* **Surabhi Amit Chembra** - *OMSCS Georgia Tech Student*
-* **Ling Yao** - *OMSCS Georgia Tech Student*
-
-
-## Acknowledgments
-
-* Alex Orso
-* CS-6300-O01 Instructors
-* CS-6300-O01 Students
+Words6300 folder has the project code and Docs folder has the documentations.
