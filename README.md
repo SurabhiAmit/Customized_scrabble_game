@@ -48,7 +48,7 @@ The statistics menu will give you three options to choose from:
 
 Clicking on any game score would take the user to the settings of letter counts and points pertaining to that game.
 
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/statsSettingsActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/statsSettingsActivity.PNG" width="140" height="200"/>
 
  * Letter Statistics
  	- To view the list of letters, in ascending order by number of times played, displaying:
@@ -61,7 +61,7 @@ Clicking on any game score would take the user to the settings of letter counts 
 		* The word
 		* The number of times the word has been played
 		
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/wordbankActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/wordbankActivity.PNG" width="140" height="200"/>
 
 ### Game
 * The game will initiate with 7 letters in your rack and 4 letters in the board.
@@ -72,7 +72,7 @@ Clicking on any game score would take the user to the settings of letter counts 
 * In each turn, the player can either form a word or swap letters from the rack with the pool letters.
 * When forming a word, the user needs to select at least one letter from the board and must not repeat any words already utilized in the same game. If the word is written incorrectly, the user can tap the delete button to remove the last letters selected. Once the word has been formed, the board letter used in the formed word will be randomly replaced with one of the rack letters used in the word formed, and the total points will be increased accordingly. The turn count will also be incremented by one.
 * When swapping rack letters, the user utilizes his or her turn to switch letters from the rack with letters from the pool.
-<img src="https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19Team115/blob/master/GroupProject/Docs/gameActivity.PNG" width="140" height="200"/>
+<img src="https://github.com/SurabhiAmit/Customized_scrabble_game/blob/master/Docs/gameActivity.PNG" width="140" height="200"/>
 
 ## End Game
 * The game ends when either of the following happens:
