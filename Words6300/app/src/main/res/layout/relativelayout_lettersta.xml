@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="40dp">
+    <TextView
+        android:id="@+id/textView201"
+        android:layout_width="80dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="12dp"
+        android:text="Letter"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView202"
+        android:layout_width="80dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="12dp"
+        android:text="Played"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView203"
+        android:layout_width="80dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="12dp"
+        android:text="Traded"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView204"
+        android:layout_width="120dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="270dp"
+        android:layout_marginTop="12dp"
+        android:text="Used/Drawn"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+</RelativeLayout>

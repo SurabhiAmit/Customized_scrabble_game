@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Words6300</string>
+    <string name="form_word">Form Word</string>
+    <string name="swap_word">Swap</string>
+    <string name="instr_text">Instruction will go here ...</string>
+    <string name="instr_title">Single Player Scrabble</string>
+    <string name="instr_positive">Ok</string>
+    <string name="instr_negative">Cancel</string>
+</resources>

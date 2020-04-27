@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="40dp">
+
+    <TextView
+        android:id="@+id/sta_letterfixed"
+        android:layout_width="50dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="5dp"
+        android:text="A"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/sta_lettercount"
+        android:layout_width="50dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="188dp"
+        android:layout_marginTop="5dp"
+        android:text="16"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/sta_letterpoint"
+        android:layout_width="50dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="310dp"
+        android:layout_marginTop="5dp"
+        android:text="3"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="40dp">
+
+    <TextView
+        android:id="@+id/textView402"
+        android:layout_width="80dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="5dp"
+        android:text="Word"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:id="@+id/textView403"
+        android:layout_width="180dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="5dp"
+        android:text="# of time used"
+        android:textAlignment="center"
+        android:textSize="20sp"
+
+         />
+
+
+</RelativeLayout>
