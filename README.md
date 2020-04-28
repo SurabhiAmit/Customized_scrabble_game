@@ -1,6 +1,6 @@
 # User Manual: SingleScrabbler
 
-SingleScrabbler is an Android application designed for word game lovers who enjoy single player mode.
+SingleScrabbler is an Android application designed for word game lovers who enjoy single player mode. It is built using java, XML to create android layout files on pixel 2 phone and database persistence was employed on SQLite database so that players can return to their unfinished games.
 
 ## Getting Started
 
